@@ -4,7 +4,7 @@ import './App.css'
 
 const App = () => {
   return (
-    <div>App Component</div>
+    <div>Portfolio on working</div>
   )
 }
 
